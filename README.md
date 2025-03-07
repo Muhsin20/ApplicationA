@@ -1,9 +1,9 @@
 # Application A (Content Provider App)
 
-##Overview
+## Overview
 Application A, an application that provides albums (title,artist) to other applications
 
-#Features
+## Features
 - Exposes the data through Content Provider
 - Uses SQLite to store the data
 - CRUD operations
